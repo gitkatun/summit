@@ -1,0 +1,23 @@
+{
+    "ENV":"_Katun",    
+    "ConnectionType_Katun":"Default",
+    "AffiliationID_Katun":"org1",
+    "CryptoTools_Katun":"true",
+    "CronSmartContract_Katun":"KatunCronSummit",
+    
+    "CAUrl_Katun":"http://18.216.237.194:7054",
+    "OrgID_Katun":"corp001",
+    "NodeID_Katun":"peer",
+    "DomainID_Katun":"katundomain.com",    
+    "ConnFile_Katun":"3.18.28.251",
+    "NickName_Katun":"diskatun1",
+    "Pass_Katun":"B10cK*2kl9",            
+    "SmartContractName_Katun":"SmartContractSummit",    
+    
+    "CAUrlDef_Katun":"http://18.216.237.194:7054", 
+    "OrdererDef_Katun":"grpc://3.18.28.251:8050", 
+    "PeerDNSDef_Katun":"peer1.corp001.katundomain.com", 
+    "PeerIPDef_Katun":"grpc://3.18.28.251:8051",
+    "SmartContractNameDef_Katun":"SmartContractSummit"
+    
+}

@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/aochoa/.m2/repository/io/jsonwebtoken/jjwt/0.2/jjwt-0.2.jar;C:/Users/aochoa/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar;C:/Users/aochoa/.m2/repository/org/glassfish/javax.json/1.1.4/javax.json-1.1.4.jar;C:/Users/aochoa/.m2/repository/Katun/SmartContract/KatunSmartContracts/1.0.0/KatunSmartContracts-1.0.0.jar;C:/Users/aochoa/.m2/repository/blockchain-katun-framework/katunFramework/2.1.0/katunFramework-2.1.0.jar;C:/Users/aochoa/.m2/repository/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar;C:/Users/aochoa/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.2/jackson-databind-2.4.2.jar;C:/Users/aochoa/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.2/jackson-core-2.4.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/aochoa/Documents/NetBeansProjects/KatunSmartContractsImpl/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/aochoa/Documents/NetBeansProjects/KatunSmartContractsImpl/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'KatunSmartContractsImpl 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/aochoa/Documents/NetBeansProjects/KatunSmartContractsImpl/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'KatunSmartContractsImpl 1.0 API'
